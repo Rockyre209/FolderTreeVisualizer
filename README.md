@@ -12,8 +12,8 @@ With just one click, you've got a full view of everything inside — neat, clean
 
 > ✨ A peek into the magic...
 
-<!-- 🧸 Replace this with your actual screenshot later -->
-![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Folder+Tree+Visualizer+Screenshot+Coming+Soon...)
+![image](https://github.com/user-attachments/assets/c3126d68-9f05-4ff9-9976-9ce49038c09d)
+
 
 ---
 
