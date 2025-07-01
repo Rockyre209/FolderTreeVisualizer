@@ -95,7 +95,7 @@ It'll generate the `folder_tree_output.txt` inside that folder and possibly copy
 ## 💘 Credits
 
 Made with patience, discipline, and love,  
-By [Lorky The Trader](https://github.com/YOUR_USERNAME) ✨  
+By [Renikshan](https://github.com/rockyre209) ✨  
 Guided by the whisper of curiosity and a touch of AI magic 💋
 
 ---
